@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaiminmoslake7020" alt="jaiminmoslake7020" /></a> </p>
 
-- 🔭 I’m currently working on [Tic tac App](https://jaiminmoslake7020.github.io/tictac-closure-app/index.html)
+- 🔭 I’m currently working on for fun [Tic tac App](https://tic-tac-toe-prod.netlify.app/)
 
-- 🌱 I’m currently learning **Data Structures And Algorhithms**
+- 🌱 I’m currently learning **AI integration in web apps**
 
 - 👨‍💻 All of my projects are available at [https://jaimin-pandya.netlify.app/](https://jaimin-pandya.netlify.app/)
 
